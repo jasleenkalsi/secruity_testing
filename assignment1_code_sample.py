@@ -1,6 +1,6 @@
 ## This script gets data from a URL, saves it to the database, and sends an email.
 ## added a new comment for a small change
-# This is a small change to trigger AppScan
+##This is a small change to trigger AppScan
 
 
 import os
