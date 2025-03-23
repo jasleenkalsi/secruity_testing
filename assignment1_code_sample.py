@@ -1,15 +1,6 @@
 ## This script gets data from a URL, saves it to the database, and sends an email.
 ## added a new comment for a small change
-import os
-import pymysql
-from urllib.request import urlopen
-
-db_config = {
-    'host': 'mydatabase.com',
-    'user': 'admin',
-    'password': 'secret123'
-}
-...
+# This is a small change to trigger AppScan
 
 
 import os
